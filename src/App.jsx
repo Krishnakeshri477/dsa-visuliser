@@ -53,7 +53,7 @@ const AppContent = () => {
         bg-gradient-to-br from-[#1e1e1e] to-[#333333] rounded-2xl p-5 shadow-[0px_10px_20px_rgba(0,0,0,0.5)]"
       >
         <h1 className="text-5xl sm:text-4xl text-center font-bold text-[#ff416c] mb-6 drop-shadow-[4px_4px_6px_rgba(0,0,0,0.6)]">
-          DSA VISUALIZER
+          DSA VISUALIZER by krishna 
         </h1>
 
         {location.pathname === '/' && <HomeButtons />}
